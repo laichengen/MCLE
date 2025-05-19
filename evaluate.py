@@ -146,12 +146,12 @@ def metric(args):
 
 
 def parse_args():
-    parse = argparse.ArgumentParser()  # 2、创建参数对象
-    parse.add_argument('--ckpt', type=str, default=None)  # 3、往参数对象添加参数
+    parse = argparse.ArgumentParser()  
+    parse.add_argument('--ckpt', type=str, default=None)  
     parse.add_argument('--model_path', type=str, default='checkpoints/Qwen2.5-SFT')
     parse.add_argument('--test_path', type=str, default='dataset/NLE/Demo/test.json')
     parse.add_argument('--metric', type=bool, default=False)
-    args = parse.parse_args()  # 4、解析参数对象获得解析对象
+    args = parse.parse_args()  
     return args
 
 
