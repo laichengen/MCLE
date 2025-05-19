@@ -1,0 +1,20 @@
+[
+    {
+        "image": "dataset/NLE/Demo/train/demo_train.jpg",
+        "ques": "What kind of building is this?",
+        "response": "Because it contains a large light at the top. So the answer is lighthouse.",
+        "ratio": 1
+    },
+    {
+        "image": "dataset/NLE/Demo/train/demo_train.jpg",
+        "ques": "What kind of building is this?",
+        "response": "Because it has a large ship on the water. So the answer is boat.",
+        "ratio": -1
+    },
+    {
+        "image": "dataset/NLE/Demo/train/demo_train.jpg",
+        "ques": "What kind of building is this?",
+        "response": "Because it has a lighthouse on top. So the answer is ship.",
+        "ratio": -1
+    }
+]

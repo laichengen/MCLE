@@ -1,0 +1,13 @@
+[
+  {
+        "image_id": 539557002,
+        "image": "dataset/NLE/Demo/val/demo_val.jpg",
+        "question": "What kind of building is this?",
+        "answer": "lighthouse",
+        "response": [
+            "Because you can tell the top of the building is designed like a lighthouse. So the answer is lighthouse",
+            "Because the top of the building has windows with a light behind them. So the answer is lighthouse",
+            "Because a ship is approaching the building. So the answer is lighthouse"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "annotations": [
+        {
+            "image_id": 539557002,
+            "caption": "you can tell the top of the building is designed like a lighthouse.",
+            "id": 0
+        },
+        {
+            "image_id": 539557002,
+            "caption": "the top of the building has windows with a light behind them.",
+            "id": 1
+        },
+        {
+            "image_id": 539557002,
+            "caption": "a ship is approaching the building.",
+            "id": 2
+        }
+    ],
+    "images": [
+        {
+            "file_name": "dataset/NLE/Demo/val/demo_val.jpg",
+            "id": 539557002
+        }
+    ]
+}
