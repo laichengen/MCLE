@@ -12,7 +12,7 @@ Official Code for [Towards More Faithful Natural Language Explanation Using Mult
 
 
 ### Model Download
-The fine-tuned checkpoint of Qwen2.5-VL-3B-Instruct on VQA-X dataset can be downloaded here: [Qwen-SFT](***). Place it in `checkpoints/Qwen2.5-SFT`.
+The fine-tuned checkpoint of Qwen2.5-VL-3B-Instruct on VQA-X dataset can be downloaded here: [Qwen-SFT](https://pan.quark.cn/s/d416184b2b7f). Place it in `checkpoints/Qwen2.5-SFT`.
 
 
 ### Dataset 
